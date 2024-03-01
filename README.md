@@ -18,3 +18,6 @@ Html, Css ve js
 ### GIF
 
 ![]{images/3.gif}
+<br/>
+<br/>
+[Projenin web sayfası] (http://127.0.0.1:5501/index.html)
